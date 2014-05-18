@@ -1,0 +1,25 @@
+{
+  "name": "doby",
+  "version": "0.0.0",
+  "description": "Expiring TODO notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/madbence/node-doby"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Bence Dányi <madbence@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madbence/node-doby/issues"
+  },
+  "homepage": "https://github.com/madbence/node-doby",
+  "devDependencies": {
+    "tape": "^2.13.1"
+  }
+}
