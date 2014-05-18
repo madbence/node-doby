@@ -21,6 +21,8 @@ todo('Do this!', '2014-05-19');
 #### todo(note, date)
 
 Throws an exception with message `note`, if executed after `date`.
+`date` is a date'ish thing, basically anything that `Date` constructor
+understands.
 
 ## License
 
